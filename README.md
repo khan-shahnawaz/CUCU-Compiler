@@ -1,5 +1,7 @@
 # CUCU-Compiler
 A dummy compiler which is a subset of C programming language written in Lex and Yacc
+
+
 How to compile and run:
     1). Use the command flex cucu.l
     2). Then run the command bison -d cucu.y
